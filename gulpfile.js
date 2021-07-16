@@ -1,5 +1,4 @@
 'use strict';
-const { use } = require('browser-sync');
 var gulp=require('gulp'),
     sass=require('gulp-sass'),
     browserSync=require('browser-sync'),
